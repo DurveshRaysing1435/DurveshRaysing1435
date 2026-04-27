@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Durvesh%20Raysing&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Durvesh%20Raysing&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Python%20Developer&descAlignY=58&descColor=8b949e" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-🎓 **MCA Student** at ASM IBMR College, building on a **BCA foundation** from Badrinarayan Barwale Mahavidyalaya
+🎓 **MCA Student** at D.Y. Patil Institute Of Master of Computer Application & Management, building on a **BCA foundation** from Badrinarayan Barwale Mahavidyalaya
 
 🤖 Currently working as a **Python Intern & AI/ML Developer**, serving as **Team Captain** on an enterprise-grade AI system
 
